@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/",
+    "/contacto",
+    "/cv",
+    "/portafolio",
+    "/sobre-mi"
+  ]
+}
